@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SqlMigrationConflictResolver/1.0.0": {
+        "runtime": {
+          "SqlMigrationConflictResolver.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SqlMigrationConflictResolver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
